@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0a0a0a"/>
+  <g transform="translate(56, 36) scale(0.78)" fill="none" stroke="#E10600" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Helmet outline -->
+    <path d="M256 48c-99.7 0-180.5 80.8-180.5 180.5 0 42.3 14.6 81.2 39 112l-8.5 47c-2 11 7.4 20.5 18.5 18.5l35-7a40 40 0 0 0 16-8l13-11c21.5 9.5 45.2 14.8 70 14.8h0c24.8 0 48.5-5.3 70-14.8l13 11a40 40 0 0 0 16 8l35 7c11 2 20.5-7.4 18.5-18.5l-8.5-47c24.4-30.8 39-69.7 39-112C436.5 128.8 355.7 48 256 48z"/>
+    <!-- Visor -->
+    <path d="M120 210h272c0 0 5 60-136 60S120 210 120 210z"/>
+    <!-- Top ridge -->
+    <path d="M256 48v155"/>
+    <path d="M210 60l46 143"/>
+    <path d="M302 60l-46 143"/>
+    <!-- Chin guard -->
+    <path d="M200 310v50c0 16 13 30 29 30h54c16 0 29-14 29-30v-50"/>
+    <!-- Neck/shoulder curve -->
+    <path d="M130 395c-25 20-45 55-55 85"/>
+    <path d="M382 395c25 20 45 55 55 85"/>
+    <!-- Ear pieces -->
+    <circle cx="110" cy="340" r="22"/>
+    <circle cx="402" cy="340" r="22"/>
+  </g>
+</svg>
