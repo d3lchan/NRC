@@ -25,9 +25,9 @@ export function Hero() {
       </div>
 
       {/* Dark overlays for text readability */}
-      <div className="absolute inset-0 bg-[#0a0a0a]/60" />
-      <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a]/40 via-transparent to-[#0a0a0a]" />
-      <div className="absolute inset-0 bg-gradient-to-r from-[#0a0a0a]/30 via-transparent to-[#0a0a0a]/30" />
+      <div className="absolute inset-0 bg-[#0a0a0a]/40" />
+      <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a]/20 via-transparent to-[#0a0a0a]/90" />
+      <div className="absolute inset-0 bg-gradient-to-r from-[#0a0a0a]/20 via-transparent to-[#0a0a0a]/20" />
 
       {/* Racing accent lines */}
       <div
