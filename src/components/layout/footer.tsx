@@ -18,7 +18,7 @@ export function Footer() {
         </div>
         <div className="flex items-center gap-6">
           <a
-            href="https://linkedin.com/in/navasheen-roy-chowdhury"
+            href="https://in.linkedin.com/in/navasheenroychowdhury"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xs uppercase tracking-widest text-muted-foreground hover:text-white transition-colors"
@@ -27,7 +27,7 @@ export function Footer() {
             LinkedIn
           </a>
           <a
-            href="mailto:navasheenrc@gmail.com"
+            href="mailto:navasheenroychowdhury@gmail.com"
             className="text-xs uppercase tracking-widest text-muted-foreground hover:text-white transition-colors"
             style={{ fontFamily: "var(--font-mono)" }}
           >

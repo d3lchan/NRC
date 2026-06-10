@@ -89,7 +89,7 @@ export function Hero() {
             Desmania Pvt. Ltd.
           </span>
           <span className="text-xs tracking-widest uppercase text-muted-foreground">
-            New Delhi
+            Manesar, Gurugram
           </span>
         </motion.div>
       </div>

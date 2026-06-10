@@ -90,7 +90,7 @@ export function Contact() {
 
           <div className="mt-8 pt-6 border-t border-white/5">
             <Button
-              render={<a href="mailto:navasheenrc@gmail.com" />}
+              render={<a href={`mailto:${CONTACT_INFO.email}`} />}
               className="w-full bg-[#E10600] hover:bg-[#E10600]/90 text-white font-bold tracking-wider"
               style={{ fontFamily: "var(--font-display)" }}
             >
